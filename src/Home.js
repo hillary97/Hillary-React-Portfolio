@@ -78,14 +78,14 @@ function Home() {
         <div className="row container mx-auto">
             <div className="col-sm-">
       
-        <img className="img-fluid mx-auto d-block" src={hillaryport} alt="hillary-portfolio-site"/><br />
+        <img className="img-fluid mx-auto d-block rounded" src={hillaryport} alt="hillary-portfolio-site"/><br />
         <h5 className="text-start">Hillary First Portfolio</h5>
-        <p className="text-secondary text-start">Portfolio Project&nbsp;<a class="bg-primary text-dark  " style={{textDdecoration:"none"}} href="https://hillarynthomev1.netlify.app/"><p className="roboto-regular ps-4  pt-2 pb-2 pe-2 text-info" style={{borderRadius:" 10px"}}><i style={{fontSize:"30px"}} className="uil uil-external-link-alt"></i> Live Demo</p></a></p>
+        <p className="text-secondary text-start">Portfolio Project&nbsp;<a className=" text-dark  " style={{textDdecoration:"none"}} href="https://hillarynthomev1.netlify.app/"><span className="roboto-regular ps-4  pt-2 pb-2 pe-2 text-info" style={{borderRadius:" 10px"}}><i style={{fontSize:"30px"}} className="uil uil-external-link-alt"></i> Live Demo</span></a></p>
         </div>
         <div className="col-sm- m-3">
-        <img  className="img-fluid mx-auto d-block " src={mbugua} alt="mbugua-portfolio-site" />
+        <img  className="img-fluid mx-auto d-block rounded " src={mbugua} alt="mbugua-portfolio-site" />
         <h5 className="p-2 text-start">Erick Mbugua Site</h5>
-        <p className="text-secondary text-start">Portfolio Project&nbsp;<a class="bg-primary text-dark  " style={{textDdecoration:"none"}} href="https://mbugua-portfolio.netlify.app/"><p className="roboto-regular ps-4  pt-2 pb-2 pe-2 text-info" style={{borderRadius:" 10px"}}><i style={{fontSize:"30px"}} className="uil uil-external-link-alt"></i> Live Demo</p></a></p>
+        <p className="text-secondary text-start">Portfolio Project&nbsp;<a className=" text-dark  " style={{textDdecoration:"none"}} href="https://mbugua-portfolio.netlify.app/"><span className="roboto-regular ps-4  pt-2 pb-2 pe-2 text-info" style={{borderRadius:" 10px"}}><i style={{fontSize:"30px",textDecoration:"none"}} className="uil uil-external-link-alt"></i> Live Demo</span></a></p>
         </div>
         </div>
     
