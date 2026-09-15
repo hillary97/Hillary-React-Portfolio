@@ -8,7 +8,7 @@ import './index.css';
 function Navigation() {
     return ( 
         <>
-      <div classNameName="row">
+      <div className="row">
       <BrowserRouter>
       {/* Navigation */}
   <nav className="navbar sticky navbar-expand-lg bg-body-tertiary d-flex  ">

@@ -13,9 +13,9 @@ function Contact() {
                         </div>
                         <div className="col-lg-4">
                             <h5>Contact Details</h5>
-                            <p style={{marginLeft:"25px"}}><span className="inter-semibold"><i class="uil uil-location-point"></i>:</span> Mlolongo, Along Mombasa Road,</p>
-		<p style={{marginLeft:"25px"}}><span className="inter-semibold"><i class="uil uil-phone"></i>:</span> 0797259596</p>
-		<p style={{marginLeft:"25px"}}><span className="inter-semibold"><i class="uil uil-envelope-check"></i>:</span> hillarynthome97@gmail.com</p>
+                            <p ><span className="inter-semibold"><i class="uil uil-location-point"></i>:</span> Mlolongo, Along Mombasa Road,</p>
+		<p ><span className="inter-semibold"><i class="uil uil-phone"></i>:</span> 0797259596</p>
+		<p ><span className="inter-semibold"><i class="uil uil-envelope-check"></i>:</span> hillarynthome97@gmail.com</p>
                         </div>
                         {/* <div className="col-lg-3">
                             <h5>UseFULL Links</h5>
@@ -38,8 +38,9 @@ function Contact() {
                     
                        </div>
                        </div>
-                    <p className="fw-semibold bg-dark text-white p-2 m-2" >Designed & Created By Hillary Nthome © 2026 All Rights Reserved <i class="uil uil-arrow-up"></i></p>
+                    
                      </footer>
+                     <p className="fw-semibold bg-dark text-white p-2 m-2" >Designed & Created By Hillary Nthome © 2026 All Rights Reserved <i class="uil uil-arrow-up"></i></p>
         </div>
      );
 }
